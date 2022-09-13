@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Event Platform" src=".github/Cover.png" width="100%">
+  <img alt="NLW eSports" src=".github/Cover.png" width="100%">
 </p>
 
 ## 🚀 Technologies
