@@ -27,11 +27,14 @@ This project is being developed with the following technologies:
 - <a href="https://vitejs.dev/" alt="vitejs" target="_blank">Vite (React + TS)</a>
 - <a href="https://tailwindcss.com/" alt="TailwindCSS" target="_blank">TailwindCSS</a>
 - <a href="https://www.radix-ui.com/" alt="Radix UI" target="_blank">Radix UI</a>
+- <a href="https://axios-http.com/docs/intro" alt="Axios" target="_blank">Axios</a>
+- <a href="https://phosphoricons.com/" alt="Axios" target="_blank">Phosphor Icons</a>
 
 #### Mobile:
 - <a href="https://reactnative.dev/" alt="React Native" target="_blank">React Native</a>
 - <a href="https://axios-http.com/docs/intro" alt="Axios" target="_blank">Axios</a>
 - <a href="https://expo.dev/" alt="Expo" target="_blank">Expo</a>
+- <a href="https://phosphoricons.com/" alt="Axios" target="_blank">Phosphor Icons</a>
 
 
 ## 💻 Project
